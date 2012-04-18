@@ -1,0 +1,4 @@
+== Mockito Examples
+Some examples of Mockito code. Written for Methods & Tools article http://www.methodsandtools.com 
+
+If you want to know more about Mockito you better visit http://practicalunittesting.com :)
